@@ -1,8 +1,8 @@
-# P.D. Montgomery Letters (LSU Mss. 4568)
-Descriptive metadata from the P.D. Montgomery Letters held at LSU and available through the Louisiana Digital Library. See the collection in the Louisiana Digital Library: https://louisianadigitallibrary.org/islandora/object/lsu-sc-montgomery%3Acollection
+# Hope-Farm-Plantation-Photograph-Collection (LSU Mss. 4568)
+Descriptive metadata from the Hope Farm Plantation Photograph Collection held at LSU and available through the Louisiana Digital Library. See the collection in the Louisiana Digital Library: https://louisianadigitallibrary.org/islandora/object/lsu-sc-hopefarm:collection
 
 ## About the archival collection
-Summary: Captain Peter D. Montgomery served in Company H, 6th Michigan Infantry during the Civil War. He was stationed first at Ft. McKim in Baltimore, then served in Louisiana. He was wounded at Port Hudson and resigned his commission in August 1864 as a result of his wounds. Letters to his cousin Ellen True of Chatauqua County, New York, relate his religious beliefs, health, weather, opinion of southerners, and family matters. He describes his part in the fighting at Port Hudson.
+Summary: The Hope Farm Plantation Photograph Collection consists of photographs of a plantation home, sugar mill, men hunting, and an African-American laborer on a sugar plantation on Bayou Terrebonne, twelve miles south of Houma, Terrebonne Parish, La.
 
 ## About the data 
 The CSV contains titles, descriptions, personal names, subjects, and other information about each item in the collection. 
