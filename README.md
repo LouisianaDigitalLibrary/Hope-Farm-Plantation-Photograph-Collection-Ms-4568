@@ -1,4 +1,4 @@
-# Hope-Farm-Plantation-Photograph-Collection (LSU Mss. 4568)
+# Hope Farm Plantation Photograph Collection (LSU Mss. 4568)
 Descriptive metadata from the Hope Farm Plantation Photograph Collection held at LSU and available through the Louisiana Digital Library. See the collection in the Louisiana Digital Library: https://louisianadigitallibrary.org/islandora/object/lsu-sc-hopefarm:collection
 
 ## About the archival collection
